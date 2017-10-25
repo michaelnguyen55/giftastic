@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-	font-size: 18px;
+	font-size: 20px;
 }
 
 h3 {
@@ -36,6 +36,8 @@ h3 {
 }
 
 .gifButton, #addGifSubmitButton {
+	font-family: Arial;
+	font-size: 16px;
 	color: white;
 	background-color: #af1308;
 	border: 0px;
@@ -55,7 +57,7 @@ h3 {
 
 #moreGifsButton {
 	visibility: hidden;
-	font-size: 18px;
+	font-size: 20px;
 	font-weight: bold;
 	color: white;
 	width: 100%;
